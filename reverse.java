@@ -1,3 +1,9 @@
+//Solution For Reverse a Number Problem from CodeChed DSA Series 
+//The Solution is so big because I have used OOPS Concepts
+//I have MAde Getters and Setters for Ensuring Encapsulation
+//Also as a good practice made a function calling other neccesary functions so that the load in main class is reduced
+//if you think this code needs to be changed in someway - fork it
+
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
